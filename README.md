@@ -29,7 +29,7 @@
 
 ## 🌐 Connect With Me:
 
-<div align="center">
+<div align="center" style="border: 1px solid #A855F7; padding: 10px; border-radius: 10px;">
   <a href="https://facebook.com/https://www.facebook.com/profile.php?id=100009448583945">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
