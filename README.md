@@ -8,7 +8,9 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" autoplay loop>
+<div style="background: rgba(168, 85, 247, 0.03); border-radius: 10px; padding: 15px; margin-bottom: 20px;">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" autoplay loop style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
 
 🔭 **Currently working on:** JavaScript Projects & Web Development
 
@@ -20,6 +22,8 @@
 
 ⚡ **Fun fact:** I love turning coffee into code! ☕️
 
+</div>
+
 <br clear="both">
 
 
@@ -29,36 +33,38 @@
 
 ## 🌐 Connect With Me:
 
-<div align="center" style="border: 1px solid #A855F7; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #A855F7;">
-  <a href="https://facebook.com/https://www.facebook.com/profile.php?id=100009448583945" style="border: 1px solid #A855F7; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #A855F7;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+<div align="center" style="background: rgba(168, 85, 247, 0.05); border: 2px solid #A855F7; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.3); margin: 20px 0;">
+  <a href="https://www.facebook.com/profile.php?id=100009448583945" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(24, 119, 242, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(24, 119, 242, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(24, 119, 242, 0.4)'" />
   </a>
-  <a href="https://instagram.com/aunmohamad" style="border: 1px solid #A855F7; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #A855F7;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  <a href="https://instagram.com/aunmohamad" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(228, 64, 95, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(228, 64, 95, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(228, 64, 95, 0.4)'" />
   </a>
-  <a href="https://linkedin.com/in/aun-abbas-847234254" style="border: 1px solid #A855F7; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #A855F7;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/aun-abbas-847234254" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 119, 181, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(0, 119, 181, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(0, 119, 181, 0.4)'" />
   </a>
-  <a href="mailto:aunmohammad254@gmail.com" style="border: 1px solid #A855F7; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px #A855F7;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  <a href="mailto:aunmohammad254@gmail.com" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(209, 72, 54, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(209, 72, 54, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(209, 72, 54, 0.4)'" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" autoplay="autoplay" loop="loop">
-</div> 
+<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" autoplay="autoplay" loop="loop" style="filter: drop-shadow(0 0 8px rgba(168, 85, 247, 0.6));">
+</div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" autoplay="autoplay" loop="loop">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" autoplay="autoplay" loop="loop">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" autoplay="autoplay" loop="loop">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" autoplay="autoplay" loop="loop">
-</div>
+</div> -->
 
 # 💻 Tech Stack:
 
+<div style="background: rgba(168, 85, 247, 0.03); border-left: 4px solid #A855F7; padding: 10px; margin: 20px 0;">
+
 ### 🌐 Frontend Technologies
-<div align="center">
+<div align="center" style="margin: 15px 0;">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -71,7 +77,7 @@
 </div>
 
 ### 🎨 Styling & UI Frameworks
-<div align="center">
+<div align="center" style="margin: 15px 0;">
   
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -79,7 +85,7 @@
 </div>
 
 ### ⚙️ Backend & Frameworks
-<div align="center">
+<div align="center" style="margin: 15px 0;">
   
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -88,7 +94,7 @@
 </div>
 
 ### 🗄️ Databases
-<div align="center">
+<div align="center" style="margin: 15px 0;">
   
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -97,7 +103,7 @@
 </div>
 
 ### ☁️ Cloud & Deployment
-<div align="center">
+<div align="center" style="margin: 15px 0;">
   
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -106,7 +112,7 @@
 </div>
 
 ### 🛠️ Tools & Design
-<div align="center">
+<div align="center" style="margin: 15px 0;">
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -114,8 +120,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" autoplay="autoplay" loop="loop">
+</div>
+<div align="center" style="margin-top: 30px; background: linear-gradient(to right, rgba(168, 85, 247, 0.05), rgba(168, 85, 247, 0.1), rgba(168, 85, 247, 0.05)); padding: 20px; border-radius: 15px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" autoplay="autoplay" loop="loop" style="filter: drop-shadow(0 0 10px rgba(168, 85, 247, 0.4));">
 </div>
 
 # 📊 GitHub Analytics:
