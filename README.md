@@ -34,18 +34,10 @@
 ## 🌐 Connect With Me:
 
 <div align="center" style="background: rgba(168, 85, 247, 0.05); border: 2px solid #A855F7; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.3); margin: 20px 0;">
-  <a href="https://www.facebook.com/profile.php?id=100009448583945" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(24, 119, 242, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(24, 119, 242, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(24, 119, 242, 0.4)'" />
-  </a>
-  <a href="https://instagram.com/aunmohamad" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(228, 64, 95, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(228, 64, 95, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(228, 64, 95, 0.4)'" />
-  </a>
-  <a href="https://linkedin.com/in/aun-abbas-847234254" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 119, 181, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(0, 119, 181, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(0, 119, 181, 0.4)'" />
-  </a>
-  <a href="mailto:aunmohammad254@gmail.com" style="display: inline-block; margin: 10px; transition: all 0.3s ease;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(209, 72, 54, 0.4); transform: translateY(0); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)';this.style.boxShadow='0 8px 15px rgba(209, 72, 54, 0.6)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 4px 8px rgba(209, 72, 54, 0.4)'" />
-  </a>
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg)](https://www.facebook.com/profile.php?id=100009448583945)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg)](https://instagram.com/aunmohamad)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg)](https://linkedin.com/in/aun-abbas-847234254)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg)](mailto:aunmohammad254@gmail.com)
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
@@ -79,45 +71,44 @@
 ### 🎨 Styling & UI Frameworks
 <div align="center" style="margin: 15px 0;">
   
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-8511FA.svg)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC.svg)](https://tailwindcss.com/)
 
 </div>
 
 ### ⚙️ Backend & Frameworks
 <div align="center" style="margin: 15px 0;">
   
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-4-092E20.svg)](https://www.djangoproject.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-4-404d59.svg)](https://expressjs.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-6-117AC9.svg)](https://wordpress.org/)
 
 </div>
 
 ### 🗄️ Databases
 <div align="center" style="margin: 15px 0;">
   
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+[![MySQL](https://img.shields.io/badge/MySQL-8-4479A1.svg)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-6-4ea94b.svg)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-DB-039BE5.svg)](https://firebase.google.com/docs/database)
 
 </div>
 
 ### ☁️ Cloud & Deployment
 <div align="center" style="margin: 15px 0;">
   
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+[![Netlify](https://img.shields.io/badge/Netlify-Deploy-000000.svg)](https://www.netlify.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-Hosting-ffca28.svg)](https://firebase.google.com/docs/hosting)
 
 </div>
 
 ### 🛠️ Tools & Design
 <div align="center" style="margin: 15px 0;">
   
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-2.40-F05033.svg)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Social-121011.svg)](https://github.com/)
+[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E.svg)](https://www.figma.com/)
+[![Canva](https://img.shields.io/badge/Canva-Design-00C4CC.svg)](https://www.canva.com/)
 
 </div>
 </div>
