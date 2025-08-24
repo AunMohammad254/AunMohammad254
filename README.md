@@ -33,11 +33,11 @@
 
 ## 🌐 Connect With Me:
 
-<div align="center" style="background: rgba(168, 85, 247, 0.05); border: 2px solid #A855F7; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(168, 85, 247, 0.3); margin: 20px 0;">
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg)](https://www.facebook.com/profile.php?id=100009448583945)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg)](https://instagram.com/aunmohamad)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg)](https://linkedin.com/in/aun-abbas-847234254)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg)](mailto:aunmohammad254@gmail.com)
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100009448583945"><img src="https://img.shields.io/badge/Facebook-1877F2.svg" alt="Facebook"></a>
+  <a href="https://instagram.com/aunmohamad"><img src="https://img.shields.io/badge/Instagram-E4405F.svg" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/aun-abbas-847234254"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg" alt="LinkedIn"></a>
+  <a href="mailto:aunmohammad254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg" alt="Gmail"></a>
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 30px;">
