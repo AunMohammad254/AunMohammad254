@@ -197,7 +197,7 @@ const aun = {
 
 <!-- Spotify Playing -->
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xvxzq5t4ksxvxvxvxvxvxvxvxv&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify"/>
+  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Now Playing"/>
 </div>
 
 <!-- Profile Views & Footer -->
@@ -205,7 +205,7 @@ const aun = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eyes.png" alt="Eyes" width="30" /> Profile Views
+## 👀 Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AunMohammad254&style=for-the-badge&color=A855F7" alt="Profile Views"/>
