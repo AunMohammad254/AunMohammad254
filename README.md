@@ -152,7 +152,6 @@ const aun = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AunMohammad254&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Aun Mohammad github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunMohammad254&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
