@@ -3,7 +3,7 @@
 
 <!-- Animated Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%E2%9C%A8+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=200&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%E2%9C%A8+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" /></a>
 </div>
 
 <!-- Animated Snake -->
