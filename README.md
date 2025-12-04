@@ -171,13 +171,6 @@ const aun = {
 
 <br/>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AunMohammad254&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
 </div>
@@ -194,11 +187,6 @@ const aun = {
 </div>
 
 <br/>
-
-<!-- Spotify Playing -->
-<div align="center">
-  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Now Playing"/>
-</div>
 
 <!-- Profile Views & Footer -->
 <div align="center">
