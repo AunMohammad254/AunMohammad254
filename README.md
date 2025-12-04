@@ -1,167 +1,248 @@
+<!-- Header Banner with Gradient Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aun%20Mohammad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=52&descSize=18"/>
+
+<!-- Animated Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Aun+Mohammad+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%9A%80+Building+the+Future%2C+One+Commit+at+a+Time;%E2%9C%A8+Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" /></a>
 </div>
 
+<!-- Animated Snake -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" autoplay="autoplay" loop="loop">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
-## 💫 About Me:
+<br/>
 
-<div style="background: rgba(168, 85, 247, 0.03); border-radius: 10px; padding: 15px; margin-bottom: 20px;">
+<!-- About Me Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" autoplay loop style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
 
-🔭 **Currently working on:** JavaScript Projects & Web Development
+<table align="center">
+<tr>
+<td width="50%">
 
-🌱 **Learning:** JavaScript, Node.js, React & Modern Web Technologies
+<img align="right" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-👨‍💻 **Portfolio:** All of my projects are available [here](https://github.com/AunMohammad254?tab=repositories)
+</td>
+<td width="50%">
 
-📫 **Reach me:** [aunmohammad254@gmail.com](mailto:aunmohammad254@gmail.com)
+```javascript
+const aun = {
+    pronouns: "He" | "Him",
+    location: "🌍 Earth",
+    currentFocus: "Full Stack Development",
+    learning: ["TypeScript", "Next.js", "Docker"],
+    askMeAbout: [
+        "Web Dev", "JavaScript", 
+        "React", "Node.js"
+    ],
+    funFact: "I debug with console.log 😅",
+    motto: "Code. Learn. Repeat. 🔁"
+};
+```
 
-⚡ **Fun fact:** I love turning coffee into code! ☕️
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  
+| 🔭 Currently Working On | 🌱 Learning | 💬 Ask Me About |
+|:---:|:---:|:---:|
+| JavaScript Projects & Web Apps | React, Node.js, TypeScript | Frontend, Backend, UI/UX |
+| Open Source Contributions | Cloud Technologies | Best Practices |
 
 </div>
 
 <br clear="both">
 
 
+<!-- Connect Section with Animated Icons -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" autoplay="autoplay" loop="loop">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🌐 Connect With Me:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> Connect With Me
 
 <div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100009448583945"><img src="https://img.shields.io/badge/Facebook-1877F2.svg" alt="Facebook"></a>
-  <a href="https://instagram.com/aunmohamad"><img src="https://img.shields.io/badge/Instagram-E4405F.svg" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/aun-abbas-847234254"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg" alt="LinkedIn"></a>
-  <a href="mailto:aunmohammad254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/aun-abbas-847234254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100009448583945" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/aunmohamad" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:aunmohammad254@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/AunMohammad254" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 30px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" autoplay="autoplay" loop="loop" style="filter: drop-shadow(0 0 8px rgba(168, 85, 247, 0.6));">
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-<!-- <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" autoplay="autoplay" loop="loop">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" autoplay="autoplay" loop="loop">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" autoplay="autoplay" loop="loop">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" autoplay="autoplay" loop="loop">
-</div> -->
+<!-- Tech Stack Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-# 💻 Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
 
-<div style="background: rgba(168, 85, 247, 0.03); border-left: 4px solid #A855F7; padding: 10px; margin: 20px 0;">
+<!-- Animated Tech Icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628571e.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="75">
+</div>
+
+<br/>
 
 ### 🌐 Frontend Technologies
-<div align="center" style="margin: 15px 0;">
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML-5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS-3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4-blue.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
-[![Next JS](https://img.shields.io/badge/Next.js-13-black.svg)](https://nextjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-0.71-blue.svg)](https://reactnative.dev/)
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap&perline=8" />
 </div>
 
-### 🎨 Styling & UI Frameworks
-<div align="center" style="margin: 15px 0;">
+<br/>
+
+### ⚙️ Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,firebase&perline=6" />
+</div>
+
+<br/>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel,npm,postman&perline=8" />
+</div>
+
+<br/>
+
+<!-- Animated Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AunMohammad254&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Aun Mohammad github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunMohammad254&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AunMohammad254&theme=transparent&hide_border=true&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A855F7&sideLabels=A855F7&dates=808080&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AunMohammad254&custom_title=Aun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&title_color=A855F7&area=true&hide_border=true" alt="Aun's Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AunMohammad254&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+</div>
+
+<!-- Quote Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Quote" width="30" /> Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming&border=true" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- Spotify Playing -->
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xvxzq5t4ksxvxvxvxvxvxvxvxv&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify"/>
+</div>
+
+<!-- Profile Views & Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eyes.png" alt="Eyes" width="30" /> Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AunMohammad254&style=for-the-badge&color=A855F7" alt="Profile Views"/>
+  <br/><br/>
+  <a href="https://github.com/AunMohammad254?tab=followers">
+    <img src="https://img.shields.io/github/followers/AunMohammad254?style=for-the-badge&color=A855F7&labelColor=0d1117" alt="Followers"/>
+  </a>
+  <a href="https://github.com/AunMohammad254?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Check%20Them%20Out-A855F7?style=for-the-badge&labelColor=0d1117" alt="Repos"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<br/>
+
+<!-- Support Me -->
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Heart" width="25" />
+    Thanks for visiting! Let's build something amazing together!
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Heart" width="25" />
+  </h3>
   
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-8511FA.svg)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC.svg)](https://tailwindcss.com/)
-
+  <a href="https://github.com/AunMohammad254">
+    <img src="https://img.shields.io/badge/⭐_Star_My_Repos-A855F7?style=for-the-badge&labelColor=0d1117" alt="Star"/>
+  </a>
 </div>
 
-### ⚙️ Backend & Frameworks
-<div align="center" style="margin: 15px 0;">
-  
-[![Django](https://img.shields.io/badge/Django-4-092E20.svg)](https://www.djangoproject.com/)
-[![Express.js](https://img.shields.io/badge/Express.js-4-404d59.svg)](https://expressjs.com/)
-[![WordPress](https://img.shields.io/badge/WordPress-6-117AC9.svg)](https://wordpress.org/)
+<br/>
 
-</div>
+<!-- Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-### 🗄️ Databases
-<div align="center" style="margin: 15px 0;">
-  
-[![MySQL](https://img.shields.io/badge/MySQL-8-4479A1.svg)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6-4ea94b.svg)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-DB-039BE5.svg)](https://firebase.google.com/docs/database)
-
-</div>
-
-### ☁️ Cloud & Deployment
-<div align="center" style="margin: 15px 0;">
-  
-[![Netlify](https://img.shields.io/badge/Netlify-Deploy-000000.svg)](https://www.netlify.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-Hosting-ffca28.svg)](https://firebase.google.com/docs/hosting)
-
-</div>
-
-### 🛠️ Tools & Design
-<div align="center" style="margin: 15px 0;">
-  
-[![Git](https://img.shields.io/badge/Git-2.40-F05033.svg)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Social-121011.svg)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-Design-F24E1E.svg)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-Design-00C4CC.svg)](https://www.canva.com/)
-
-</div>
-</div>
-<div align="center" style="margin-top: 30px; background: linear-gradient(to right, rgba(168, 85, 247, 0.05), rgba(168, 85, 247, 0.1), rgba(168, 85, 247, 0.05)); padding: 20px; border-radius: 15px;">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" autoplay="autoplay" loop="loop" style="filter: drop-shadow(0 0 10px rgba(168, 85, 247, 0.4));">
-</div>
-
-# 📊 GitHub Analytics:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AunMohammad254&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=A855F7" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AunMohammad254&theme=midnight-purple&hide_border=false&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunMohammad254&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AunMohammad254&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200" autoplay="autoplay" loop="loop">
-</div>
-
-## ✍️ Random Dev Quote
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" autoplay="autoplay" loop="loop">
-</div>
-
-## 👀 Profile Views
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=AunMohammad254&icon=2&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" autoplay="autoplay" loop="loop">
-</div>
-
-<div align="center">
-  <h3>💫 Thanks for visiting! Let's connect and build something amazing together! 💫</h3>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Secret: Thanks for scrolling down! You're awesome! 🎉 -->
