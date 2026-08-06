@@ -136,8 +136,6 @@ A single-file anime fighting game built entirely in vanilla HTML/CSS/JS, develop
 
 </div>
 
-> Live badges pulled straight from the `blood-match` repo via shields.io — same reliable service as the badges above, so these won't go down like the third-party trophy widgets tend to.
-
 ## 🐍 Contribution Snake
 
 <div align="center">
