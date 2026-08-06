@@ -128,7 +128,7 @@ A single-file anime fighting game built entirely in vanilla HTML/CSS/JS, develop
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AunMohammad254&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=AunMohammad254&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ## 🐍 Contribution Snake
