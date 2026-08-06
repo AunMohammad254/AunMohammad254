@@ -125,11 +125,18 @@ A single-file anime fighting game built entirely in vanilla HTML/CSS/JS, develop
 
 </div>
 
-## 🏆 Trophy Case
+## 📌 Blood Match — Live Repo Pulse
 
 <div align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=AunMohammad254&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+
+[![Last Commit](https://img.shields.io/github/last-commit/AunMohammad254/blood-match?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=git&logoColor=white)](https://github.com/AunMohammad254/blood-match)
+[![Top Language](https://img.shields.io/github/languages/top/AunMohammad254/blood-match?style=for-the-badge&color=E11D48&labelColor=0D1117)](https://github.com/AunMohammad254/blood-match)
+[![Repo Size](https://img.shields.io/github/repo-size/AunMohammad254/blood-match?style=for-the-badge&color=7C3AED&labelColor=0D1117)](https://github.com/AunMohammad254/blood-match)
+[![Open Issues](https://img.shields.io/github/issues/AunMohammad254/blood-match?style=for-the-badge&color=E11D48&labelColor=0D1117)](https://github.com/AunMohammad254/blood-match/issues)
+
 </div>
+
+> Live badges pulled straight from the `blood-match` repo via shields.io — same reliable service as the badges above, so these won't go down like the third-party trophy widgets tend to.
 
 ## 🐍 Contribution Snake
 
