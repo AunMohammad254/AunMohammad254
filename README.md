@@ -7,7 +7,8 @@
 </a>
 
 <br/>
-
+<br/>
+<br/>
 [![Profile Views](https://komarev.com/ghpvc/?username=AunMohammad254&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/AunMohammad254)
 [![Followers](https://img.shields.io/github/followers/AunMohammad254?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/AunMohammad254?tab=followers)
 [![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7C3AED&labelColor=0D1117&label=Karachi&query=%24.status&url=https%3A%2F%2Fapi.github.com&logo=googlemaps&logoColor=white)](https://github.com/AunMohammad254)
