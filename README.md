@@ -3,12 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:E11D48&height=220&section=header&text=Hey%2C%20I%27m%20Aun%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSCS%20Student%20%7C%20Karachi%2C%20Pakistan&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/AunMohammad254">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+full-stack+products+end+to+end;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB+%E2%80%A2+Node.js;Turning+hackathon+ideas+into+shipped+apps;Currently+deep+in+Blood+Match+%26+HireFlow+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Building+full-stack+products+end+to+end;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB+%E2%80%A2+Node.js;Turning+hackathon+ideas+into+shipped+apps;Currently+deep+in+Blood+Match+%26+HireFlow+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
-<br/>
-<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=AunMohammad254&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/AunMohammad254)
 [![Followers](https://img.shields.io/github/followers/AunMohammad254?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/AunMohammad254?tab=followers)
 [![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7C3AED&labelColor=0D1117&label=Karachi&query=%24.status&url=https%3A%2F%2Fapi.github.com&logo=googlemaps&logoColor=white)](https://github.com/AunMohammad254)
