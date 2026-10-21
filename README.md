@@ -1,163 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:E11D48&height=220&section=header&text=Hey%2C%20I%27m%20Aun%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20BSCS%20Student%20%7C%20Karachi%2C%20Pakistan&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Aun Mohammad — Full-stack developer and creative coder from Karachi, Pakistan"/>
 
 <a href="https://github.com/AunMohammad254">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Building+full-stack+products+end+to+end;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB+%E2%80%A2+Node.js;Turning+hackathon+ideas+into+shipped+apps;Currently+deep+in+Blood+Match+%26+HireFlow+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+building+full-stack+products+end+to+end;%3E+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB+%E2%80%A2+Supabase;%3E+crafting+3D+web+with+Three.js+%2B+GSAP;%3E+currently+shipping+Blood+Match+%26+HireFlow" alt="Typing intro"/>
 </a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AunMohammad254&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/AunMohammad254)
-[![Followers](https://img.shields.io/github/followers/AunMohammad254?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/AunMohammad254?tab=followers)
-[![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7C3AED&labelColor=0D1117&label=Karachi&query=%24.status&url=https%3A%2F%2Fapi.github.com&logo=googlemaps&logoColor=white)](https://github.com/AunMohammad254)
+[![Profile Views](https://komarev.com/ghpvc/?username=AunMohammad254&style=for-the-badge&color=FF3DF2&label=PROFILE+VIEWS)](https://github.com/AunMohammad254)
+[![Followers](https://img.shields.io/github/followers/AunMohammad254?style=for-the-badge&color=00E5FF&labelColor=0A0014&logo=github&logoColor=00E5FF&label=FOLLOWERS)](https://github.com/AunMohammad254?tab=followers)
+[![Location](https://img.shields.io/badge/Karachi%2C_PK-0A0014?style=for-the-badge&logo=googlemaps&logoColor=FF3DF2)](https://github.com/AunMohammad254)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0014?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://aunabbas-porfolio.vercel.app)
 
 </div>
 
 <br/>
 
-## 🧭 About Me
+<img src="assets/section-about-me.svg" width="100%" alt="01 — About me"/>
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="300" src="assets/hud.svg" alt="System status: Karachi, full-stack developer, focused on 3D web and AI-assisted development"/>
 
 ```ts
 const aun = {
-  role: "BSCS Student & Full-Stack Developer",
+  role: "Full-Stack Developer",
+  edu: "BSCS Student",
   base: "Karachi, Pakistan 🇵🇰",
-  coreStack: ["Next.js", "TypeScript", "MongoDB", "Node.js", "Tailwind CSS"],
+  stack: ["Next.js", "TypeScript", "MongoDB",
+          "Supabase", "Tailwind CSS"],
   building: ["Blood Match 🩸", "HireFlow 💼"],
-  exploring: [
-    "Three.js + GSAP for immersive, Awwwards-style UI",
-    "AI-assisted dev workflows (Claude Code CLI, Gemini CLI)",
-  ],
-  funFact: "Every AI-written PR gets a second, independent audit pass before it merges 🕵️",
+  exploring: ["Three.js + GSAP", "AI dev workflows"],
+  funFact: "every AI-written PR gets audited 🕵️",
 };
 ```
 
-- 🎓 BSCS student who ships side projects alongside coursework — not just tutorials
-- 🩸 Building **Blood Match**, an emergency blood-donation matching platform, for the MAJU CodeCraft Community hackathon
-- 💼 Reimagining **HireFlow**, a job board, into an immersive 3D experience with Three.js, GSAP & Lenis
-- 🤖 Deep in AI-assisted development — curating reusable, phase-gated prompt systems for Claude Code CLI and Gemini CLI
-- 🏏 Cricket fan who turned that passion into a quiz platform, **1Think2Win**
-- 💬 Ask me about full-stack architecture, the Next.js/MongoDB stack, or AI-assisted dev workflows
+- ⚡ BSCS student who ships real products alongside coursework, not just tutorials
+- 🩸 Building **Blood Match**, an emergency blood-donor matching platform for the MAJU CodeCraft hackathon
+- 🧊 Turning **HireFlow** into an immersive 3D experience with Three.js, GSAP and Lenis
+- 🤖 Curating reusable, phase-gated prompt systems for Claude Code and Gemini CLI
+- 🏏 Cricket fan who turned that passion into a live quiz platform, **1Think2Win**
+- 💬 Ask me about full-stack architecture, Next.js + MongoDB, or AI-assisted workflows
 
 <br clear="right"/>
 
-## 🚀 Featured Projects
+<img src="assets/section-projects.svg" width="100%" alt="02 — Projects"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/AunMohammad254/blood-match"><img src="assets/card-blood-match.svg" width="49%" alt="Blood Match — emergency blood-donor matching platform"/></a>
+  <a href="https://github.com/AunMohammad254?tab=repositories"><img src="assets/card-hireflow.svg" width="49%" alt="HireFlow — job board reimagined as an immersive 3D experience"/></a>
+</p>
+<p align="center">
+  <sub><b>BLOOD MATCH</b> → <a href="https://blood-match.vercel.app">live demo</a> · <a href="https://github.com/AunMohammad254/blood-match">source</a> &nbsp;&nbsp;│&nbsp;&nbsp; <b>HIREFLOW</b> → in development</sub>
+</p>
 
-### 🩸 Blood Match
-Emergency blood-donation matching platform built for a hackathon, shipped with a full PRD, architecture doc, and rulebook. Every build cycle gets an independent security re-audit (auth flow, race conditions, PII exposure) before anything merges.
+<p align="center">
+  <a href="https://github.com/AunMohammad254/1think2winsx"><img src="assets/card-1think2win.svg" width="49%" alt="1Think2Win — prediction-based cricket quiz platform"/></a>
+  <a href="https://github.com/AunMohammad254/anime-legends"><img src="assets/card-anime-legends.svg" width="49%" alt="Anime Legends — single-file anime fighting game"/></a>
+</p>
+<p align="center">
+  <sub><b>1THINK2WIN</b> → <a href="https://1think2win.com/">live site</a> · <a href="https://github.com/AunMohammad254/1think2winsx">source</a> &nbsp;&nbsp;│&nbsp;&nbsp; <b>ANIME LEGENDS</b> → <a href="https://anime-legends-by-aun-abbas.netlify.app/">play it</a> · <a href="https://github.com/AunMohammad254/anime-legends">source</a></sub>
+</p>
 
-**Stack:** `Next.js 14` `TypeScript` `MongoDB` `Bun` `JWT`
-[`↳ Repo`](https://github.com/AunMohammad254/blood-match)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 HireFlow
-A job board platform, extended into an Awwwards-style immersive redesign — scroll-driven 3D scenes and smooth-scroll motion layered on top of the original app.
-
-**Stack:** `Three.js` `GSAP` `Lenis` `Next.js`
-[`↳ Add repo link`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏏 1Think2Win
-A cricket quiz web app, with a tuned hero animation and layout that stays smooth under real interaction load.
-
-**Stack:** `JavaScript` `CSS` `HTML`
-[`↳ Add repo link`](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ ANIME LEGENDS
-A single-file anime fighting game built entirely in vanilla HTML/CSS/JS, developed through iterative, AI-assisted prompting.
-
-**Stack:** `JavaScript` `Canvas` `HTML/CSS`
-[`↳ Add repo link`](#)
-
-</td>
-</tr>
-</table>
-
-> 📌 Swap in real repo URLs as each project goes public — see setup note below.
-
-## 🛠️ Tech Stack
+<img src="assets/section-tech-stack.svg" width="100%" alt="03 — Tech stack"/>
 
 <div align="center">
 
-**Languages**
+<code>// languages</code><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,html,css&theme=dark&perline=8" alt="TypeScript, JavaScript, C++, HTML, CSS"/>
+
+<code>// frontend + 3d motion</code><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vercel&theme=dark&perline=8" alt="React, Next.js, Tailwind CSS, Three.js, Vercel"/>
+
+<code>// backend + data</code><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,mongodb,postgres,supabase&theme=dark&perline=8" alt="Node.js, Express, Bun, MongoDB, PostgreSQL, Supabase"/>
+
+<code>// tools + workflow</code><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,npm&theme=dark&perline=8" alt="Git, GitHub, Docker, VS Code, Figma, Postman, npm"/>
+
+</div>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css&perline=5" />
 
-**Frontend & Motion**
+<img src="assets/section-github-stats.svg" width="100%" alt="04 — GitHub stats"/>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AunMohammad254&show_icons=true&count_private=true&rank_icon=github&bg_color=0A0014&border_color=7C3AED&title_color=FF3DF2&icon_color=00E5FF&text_color=C4B5FD&ring_color=FF3DF2" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunMohammad254&layout=compact&langs_count=8&bg_color=0A0014&border_color=7C3AED&title_color=FF3DF2&text_color=C4B5FD" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=AunMohammad254&background=0A0014&border=7C3AED&stroke=8B5CF6&ring=FF3DF2&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C4B5FD&dates=8B8BA7" alt="Contribution streak"/>
+
+<img src="profile-3d-contrib/profile-neon.svg" width="100%" alt="3D contribution skyline"/>
+
+</div>
+
+<img src="assets/section-connect.svg" width="100%" alt="05 — Connect"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0014?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/aun-abbas-847234254)
+[![Gmail](https://img.shields.io/badge/Gmail-0A0014?style=for-the-badge&logo=gmail&logoColor=FF3DF2)](mailto:aunmohammad254@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0014?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://aunabbas-porfolio.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-0A0014?style=for-the-badge&logo=instagram&logoColor=FF3DF2)](https://instagram.com/aunmohamad)
+[![Facebook](https://img.shields.io/badge/Facebook-0A0014?style=for-the-badge&logo=facebook&logoColor=00E5FF)](https://www.facebook.com/profile.php?id=100009448583945)
+
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vercel&perline=5" />
 
-**Backend & Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase&perline=5" />
-
-**Tools & Workflow**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,npm&perline=7" />
+<img src="https://raw.githubusercontent.com/AunMohammad254/AunMohammad254/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution grid"/>
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AunMohammad254&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=E11D48&text_color=C9D1D9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AunMohammad254&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" />
-
-<img src="https://streak-stats.demolab.com/?user=AunMohammad254&theme=radical&hide_border=true&background=0D1117&stroke=7C3AED&ring=E11D48&fire=E11D48&currStreakLabel=7C3AED" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AunMohammad254&custom_title=Aun's%20Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=E11D48&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## 📌 Blood Match — Live Repo Pulse
-
-<div align="center">
-
-[![Last Commit](https://img.shields.io/github/last-commit/AunMohammad254/blood-match?style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=git&logoColor=white)](https://github.com/AunMohammad254/blood-match)
-[![Top Language](https://img.shields.io/github/languages/top/AunMohammad254/blood-match?style=for-the-badge&color=E11D48&labelColor=0D1117)](https://github.com/AunMohammad254/blood-match)
-[![Repo Size](https://img.shields.io/github/repo-size/AunMohammad254/blood-match?style=for-the-badge&color=7C3AED&labelColor=0D1117)](https://github.com/AunMohammad254/blood-match)
-[![Open Issues](https://img.shields.io/github/issues/AunMohammad254/blood-match?style=for-the-badge&color=E11D48&labelColor=0D1117)](https://github.com/AunMohammad254/blood-match/issues)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AunMohammad254/AunMohammad254/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> Needs a one-time GitHub Action setup to generate — see the walkthrough below.
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aun-abbas-847234254)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aunmohammad254@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aunmohamad)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009448583945)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AunMohammad254)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,50:7C3AED,100:0D1117&height=120&section=footer" width="100%"/>
-
-<div align="center">
-<sub>⭐ From <a href="https://github.com/AunMohammad254">AunMohammad254</a> — thanks for stopping by!</sub>
-</div>
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by"/>

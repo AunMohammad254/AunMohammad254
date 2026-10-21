@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="ANIME LEGENDS — A single-file anime fighting game in vanilla HTML, CSS and JS, built through iterative AI-assisted prompting.">
+<title>ANIME LEGENDS — A single-file anime fighting game in vanilla HTML, CSS and JS, built through iterative AI-assisted prompting.</title>
+
+<defs>
+  
+  <filter id="g" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feFlood flood-color="#ff3df2"/><feComposite in2="b" operator="in" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="gs" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="1.5" result="b"/>
+    
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#140428"/><stop offset="1" stop-color="#07010f"/>
+  </linearGradient>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ff3df2" fill-opacity=".12"/></pattern>
+  <style>
+    .lift{animation:lift 6s ease-in-out infinite}
+    @keyframes lift{50%{transform:translate(-3px,-5px)}}
+    .pulse{animation:pulse 1.6s ease-in-out infinite}
+    @keyframes pulse{50%{opacity:.25}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+<path d="M44 22H594V272L572 294H22V44Z" fill="#ff3df2" fill-opacity=".14" stroke="#ff3df2" stroke-opacity=".45"/>
+<g stroke="#ff3df2" stroke-opacity=".45">
+  <line x1="578" y1="6" x2="594" y2="22"/>
+  <line x1="556" y1="278" x2="572" y2="294"/>
+  <line x1="6" y1="278" x2="22" y2="294"/>
+</g>
+<g class="lift">
+  <path d="M28 6H578V256L556 278H6V28Z" fill="url(#bg)"/>
+  <path d="M28 6H578V256L556 278H6V28Z" fill="url(#dots)" stroke="#ff3df2" stroke-width="1.6" filter="url(#gs)"/>
+  <text x="36" y="46" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#ff3df2" letter-spacing="1">PROJECT_04 // GAME</text>
+  <g transform="translate(548 34)">
+    <circle class="pulse" cx="-84.4" cy="7" r="4.5" fill="#ff3df2"/>
+    <text x="0" y="12" text-anchor="end" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#f5f3ff">PLAYABLE</text>
+  </g>
+  <text x="34" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="900" fill="#f5f3ff" filter="url(#g)" letter-spacing="1">ANIME LEGENDS</text>
+  <text y="134" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17.5" fill="#c4b5fd"><tspan x="36" dy="0">A single-file anime fighting game in</tspan><tspan x="36" dy="24">vanilla HTML, CSS and JS, built through</tspan><tspan x="36" dy="24">iterative AI-assisted prompting.</tspan></text>
+  <rect x="36" y="214" width="112" height="28" rx="2" fill="#ff3df2" fill-opacity=".08" stroke="#ff3df2" stroke-opacity=".8"/>
+      <text x="92" y="233" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13.5" fill="#ff3df2" textLength="86" lengthAdjust="spacingAndGlyphs">JAVASCRIPT</text><rect x="156" y="214" width="75.2" height="28" rx="2" fill="#ff3df2" fill-opacity=".08" stroke="#ff3df2" stroke-opacity=".8"/>
+      <text x="193.6" y="233" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13.5" fill="#ff3df2" textLength="49.2" lengthAdjust="spacingAndGlyphs">CANVAS</text><rect x="239.2" y="214" width="93.6" height="28" rx="2" fill="#ff3df2" fill-opacity=".08" stroke="#ff3df2" stroke-opacity=".8"/>
+      <text x="286" y="233" text-anchor="middle" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13.5" fill="#ff3df2" textLength="67.6" lengthAdjust="spacingAndGlyphs">HTML/CSS</text>
+  <text x="548" y="266" text-anchor="end" font-family="'Cascadia Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ff3df2" letter-spacing="1">VIEW REPO →</text>
+  <g fill="none" stroke="#ff3df2" stroke-width="1.6" stroke-linejoin="round" filter="url(#gs)" opacity=".9">
+    <path d="M531.8 151.8L516.1 126.4M531.8 151.8L464 174M531.8 151.8L459.7 92.1M516.1 126.4L464 174M516.1 126.4L459.7 92.1M464 174L459.7 92.1"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M531.8 151.8L516.1 126.4M531.8 151.8L464 174M531.8 151.8L459.7 92.1M516.1 126.4L464 174M516.1 126.4L459.7 92.1M464 174L459.7 92.1;M536.1 152.6L511.7 129.6M536.1 152.6L458.8 173.2M536.1 152.6L464.7 88.6M511.7 129.6L458.8 173.2M511.7 129.6L464.7 88.6M458.8 173.2L464.7 88.6;M539 154.2L507 132.5M539 154.2L454.1 171.7M539 154.2L470.8 85.6M507 132.5L454.1 171.7M507 132.5L470.8 85.6M454.1 171.7L470.8 85.6;M540.6 156.4L502.1 135M540.6 156.4L450 169.4M540.6 156.4L477.5 83.2M502.1 135L450 169.4M502.1 135L477.5 83.2M450 169.4L477.5 83.2;M540.8 159.2L497.1 137M540.8 159.2L446.6 166.3M540.8 159.2L484.7 81.8M497.1 137L446.6 166.3M497.1 137L484.7 81.8M446.6 166.3L484.7 81.8;M539.9 162.4L492 138.4M539.9 162.4L444.1 162.4M539.9 162.4L492 81.3M492 138.4L444.1 162.4M492 138.4L492 81.3M444.1 162.4L492 81.3;M537.9 165.8L486.9 139.2M537.9 165.8L442.8 157.8M537.9 165.8L499.2 81.9M486.9 139.2L442.8 157.8M486.9 139.2L499.2 81.9M442.8 157.8L499.2 81.9;M535 169.2L481.9 139.2M535 169.2L442.8 152.8M535 169.2L506 83.5M481.9 139.2L442.8 152.8M481.9 139.2L506 83.5M442.8 152.8L506 83.5;M531.2 172.5L477.1 138.5M531.2 172.5L444.3 147.7M531.2 172.5L512.2 86M477.1 138.5L444.3 147.7M477.1 138.5L512.2 86M444.3 147.7L512.2 86;M526.8 175.5L472.4 137M526.8 175.5L447.2 142.6M526.8 175.5L517.7 89.3M472.4 137L447.2 142.6M472.4 137L517.7 89.3M447.2 142.6L517.7 89.3;M521.8 178.1L468.1 134.8M521.8 178.1L451.7 138M521.8 178.1L522.3 93.2M468.1 134.8L451.7 138M468.1 134.8L522.3 93.2M451.7 138L522.3 93.2;M516.3 180.1L464.1 131.9M516.3 180.1L457.6 134.2M516.3 180.1L525.9 97.5M464.1 131.9L457.6 134.2M464.1 131.9L525.9 97.5M457.6 134.2L525.9 97.5;M510.4 181.5L460.7 128.3M510.4 181.5L464.9 131.5M510.4 181.5L528.5 102M460.7 128.3L464.9 131.5M460.7 128.3L528.5 102M464.9 131.5L528.5 102;M504.3 182.3L457.7 124.3M504.3 182.3L473.2 130M504.3 182.3L530.1 106.6M457.7 124.3L473.2 130M457.7 124.3L530.1 106.6M473.2 130L530.1 106.6;M498.2 182.5L455.4 119.8M498.2 182.5L482.4 130M498.2 182.5L530.6 110.9M455.4 119.8L482.4 130M455.4 119.8L530.6 110.9M482.4 130L530.6 110.9;M492 182L453.9 115M492 182L492 131.4M492 182L530.1 115M453.9 115L492 131.4M453.9 115L530.1 115M492 131.4L530.1 115;M485.9 181.1L453.1 110M485.9 181.1L501.6 134.1M485.9 181.1L528.8 118.5M453.1 110L501.6 134.1M453.1 110L528.8 118.5M501.6 134.1L528.8 118.5;M480 179.7L453.2 105.1M480 179.7L510.8 137.9M480 179.7L526.6 121.5M453.2 105.1L510.8 137.9M453.2 105.1L526.6 121.5M510.8 137.9L526.6 121.5;M474.3 177.9L454.2 100.4M474.3 177.9L519.1 142.3M474.3 177.9L523.6 123.8M454.2 100.4L519.1 142.3M454.2 100.4L523.6 123.8M519.1 142.3L523.6 123.8;M469 176L456.4 96M469 176L526.2 147.1M469 176L520.1 125.4M456.4 96L526.2 147.1M456.4 96L520.1 125.4M526.2 147.1L520.1 125.4;M464 174L459.7 92.1M464 174L531.8 151.8M464 174L516.1 126.4M459.7 92.1L531.8 151.8M459.7 92.1L516.1 126.4M531.8 151.8L516.1 126.4;M459.4 172L464.1 88.9M459.4 172L535.7 156.1M459.4 172L511.7 126.8M464.1 88.9L535.7 156.1M464.1 88.9L511.7 126.8M535.7 156.1L511.7 126.8;M455.3 170.2L469.8 86.5M455.3 170.2L538.1 159.7M455.3 170.2L507 126.7M469.8 86.5L538.1 159.7M469.8 86.5L507 126.7M538.1 159.7L507 126.7;M451.8 168.6L476.4 85M451.8 168.6L539 162.6M451.8 168.6L502.1 126.3M476.4 85L539 162.6M476.4 85L502.1 126.3M539 162.6L502.1 126.3;M449 167.2L484 84.3M449 167.2L538.6 164.7M449 167.2L497.1 125.5M484 84.3L538.6 164.7M484 84.3L497.1 125.5M538.6 164.7L497.1 125.5;M447 166.2L492 84.5M447 166.2L537 166.2M447 166.2L492 124.5M492 84.5L537 166.2M492 84.5L492 124.5M537 166.2L492 124.5;M445.9 165.4L500.2 85.5M445.9 165.4L534.6 167.1M445.9 165.4L486.9 123.3M500.2 85.5L534.6 167.1M500.2 85.5L486.9 123.3M534.6 167.1L486.9 123.3;M445.8 164.9L508.1 87.1M445.8 164.9L531.3 167.6M445.8 164.9L481.8 122.1M508.1 87.1L531.3 167.6M508.1 87.1L481.8 122.1M531.3 167.6L481.8 122.1;M447 164.5L515.3 89.1M447 164.5L527.5 167.9M447 164.5L476.8 120.8M515.3 89.1L527.5 167.9M515.3 89.1L476.8 120.8M527.5 167.9L476.8 120.8;M449.6 164.2L521.5 91.4M449.6 164.2L523.2 168.1M449.6 164.2L472 119.6M521.5 91.4L523.2 168.1M521.5 91.4L472 119.6M523.2 168.1L472 119.6;M453.5 163.8L526.5 94M453.5 163.8L518.6 168.3M453.5 163.8L467.4 118.2M526.5 94L518.6 168.3M526.5 94L467.4 118.2M518.6 168.3L467.4 118.2;M458.9 163.1L530.2 96.8M458.9 163.1L513.6 168.6M458.9 163.1L463.1 116.8M530.2 96.8L513.6 168.6M530.2 96.8L463.1 116.8M513.6 168.6L463.1 116.8;M465.7 162.2L532.5 99.6M465.7 162.2L508.4 169.1M465.7 162.2L459.3 115.3M532.5 99.6L508.4 169.1M532.5 99.6L459.3 115.3M508.4 169.1L459.3 115.3;M473.7 160.9L533.5 102.7M473.7 160.9L503.1 169.7M473.7 160.9L456.1 113.5M533.5 102.7L503.1 169.7M533.5 102.7L456.1 113.5M503.1 169.7L456.1 113.5;M482.6 159.2L533.3 105.8M482.6 159.2L497.6 170.5M482.6 159.2L453.6 111.5M533.3 105.8L497.6 170.5M533.3 105.8L453.6 111.5M497.6 170.5L453.6 111.5;M492 157.4L532.2 109.1M492 157.4L492 171.4M492 157.4L451.8 109.1M532.2 109.1L492 171.4M532.2 109.1L451.8 109.1M492 171.4L451.8 109.1;M501.5 155.5L530.1 112.5M501.5 155.5L486.3 172.3M501.5 155.5L451.1 106.3M530.1 112.5L486.3 172.3M530.1 112.5L451.1 106.3M486.3 172.3L451.1 106.3;M510.6 153.8L527.4 116M510.6 153.8L480.7 173.2M510.6 153.8L451.4 103.1M527.4 116L480.7 173.2M527.4 116L451.4 103.1M480.7 173.2L451.4 103.1;M518.8 152.5L524.1 119.5M518.8 152.5L475 173.9M518.8 152.5L452.9 99.6M524.1 119.5L475 173.9M524.1 119.5L452.9 99.6M475 173.9L452.9 99.6;M526 151.8L520.3 123M526 151.8L469.4 174.2M526 151.8L455.7 95.8M520.3 123L469.4 174.2M520.3 123L455.7 95.8M469.4 174.2L455.7 95.8;M531.8 151.8L516.1 126.4M531.8 151.8L464 174M531.8 151.8L459.7 92.1M516.1 126.4L464 174M516.1 126.4L459.7 92.1M464 174L459.7 92.1"/></path>
+  </g>
+</g>
+</svg>
