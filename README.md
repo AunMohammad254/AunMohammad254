@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Aun Mohammad — Full-stack developer and creative coder from Karachi, Pakistan"/>
 
 <a href="https://github.com/AunMohammad254">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+building+full-stack+products+end+to+end;%3E+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB+%E2%80%A2+Supabase;%3E+crafting+3D+web+with+Three.js+%2B+GSAP;%3E+currently+shipping+Blood+Match+%26+HireFlow" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=22&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+building+full-stack+products+end+to+end;%3E+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+supabase+%E2%80%A2+Supabase;%3E+crafting+3D+web+with+Three.js+%2B+GSAP;%3E+currently+shipping+Blood+Match+%26+HireFlow" alt="Typing intro"/>
 </a>
 
 <br/>
@@ -26,7 +26,7 @@ const aun = {
   role: "Full-Stack Developer",
   edu: "BSCS Student",
   base: "Karachi, Pakistan 🇵🇰",
-  stack: ["Next.js", "TypeScript", "MongoDB",
+  stack: ["Next.js", "TypeScript", "supabase",
           "Supabase", "Tailwind CSS"],
   building: ["Blood Match 🩸", "HireFlow 💼"],
   exploring: ["Three.js + GSAP", "AI dev workflows"],
@@ -39,7 +39,7 @@ const aun = {
 - 🧊 Turning **HireFlow** into an immersive 3D experience with Three.js, GSAP and Lenis
 - 🤖 Curating reusable, phase-gated prompt systems for Claude Code and Gemini CLI
 - 🏏 Cricket fan who turned that passion into a live quiz platform, **1Think2Win**
-- 💬 Ask me about full-stack architecture, Next.js + MongoDB, or AI-assisted workflows
+- 💬 Ask me about full-stack architecture, Next.js + supabase, or AI-assisted workflows
 
 <br clear="right"/>
 
@@ -72,7 +72,7 @@ const aun = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vercel&theme=dark&perline=8" alt="React, Next.js, Tailwind CSS, Three.js, Vercel"/>
 
 <code>// backend + data</code><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,mongodb,postgres,supabase&theme=dark&perline=8" alt="Node.js, Express, Bun, MongoDB, PostgreSQL, Supabase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,supabase,postgres,supabase&theme=dark&perline=8" alt="Node.js, Express, Bun, supabase, PostgreSQL, Supabase"/>
 
 <code>// tools + workflow</code><br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,npm&theme=dark&perline=8" alt="Git, GitHub, Docker, VS Code, Figma, Postman, npm"/>
